@@ -6,13 +6,13 @@ nav_exclude: false
 permalink: index.html
 seo:
   type: Course
-  name: DSC 291 Spring 2024
+  name: DSC 204A Fall 2025
 ---
 
-# DSC 291: Machine Learning Systems
+# DSC 204A: Scalable Data Systems 
 
 {: .mb-2 }
-Instructor: Hao Zhang, UC San Diego, Spring 2024
+Instructor: Hao Zhang, UC San Diego, Fall 2025
 {: .mb-2 .fs-6 .text-grey-dk-000 }
 
 <button class="js-toggle-dark-mode dm-btn btn">Toggle Dark Mode</button>
@@ -28,7 +28,7 @@ Instructor: Hao Zhang, UC San Diego, Spring 2024
 {% endfor %}
 
 
-{% assign mods = site.modules | where: 'class', 'DSC291' %}
+{% assign mods = site.modules | where: 'class', 'DSC204A' %}
 {% assign active-mods = '' | split: '' %}
 
 {% for mod in mods %}

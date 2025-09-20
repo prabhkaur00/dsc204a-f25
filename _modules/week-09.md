@@ -1,7 +1,7 @@
 ---
 title: Week 9
-class: DSC291
-status: Active
+class: DSC204A
+status: not Active
 ---
 
 May 28 

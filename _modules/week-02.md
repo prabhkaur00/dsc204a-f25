@@ -1,7 +1,7 @@
 ---
 title: Week 2
-class: DSC291
-status: Active
+class: DSC204A
+status: not Active
 ---
 
 Apr 9

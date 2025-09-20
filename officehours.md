@@ -3,7 +3,7 @@ layout: page
 title: Office Hours
 nav_exclude: true
 description: >-
-    Spring 2024 Lecture and Office Hours Schedule
+    Fall 2025 Lecture and Office Hours Schedule
 ---
 
 # Office Hours
@@ -33,7 +33,7 @@ You are welcome to show up to any office hours. Please see the calendar for offi
   </style>
 
 <div class="calendar-container">
-  <iframe src="https://calendar.google.com/calendar/embed?src=c_9388fe4949da874dc81c44bbc4315ee9f6f79655e6f4a73127ec3838fbcca49a%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+  <iframe src="https://calendar.google.com/calendar/embed?src=c_e9fc20f40a80064ce90e28f9bd6aa1925f725ab16ed2ac8a86d5f4b280e02d82%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 </div>
 
 <script src="../assets/darkmode.js"></script>

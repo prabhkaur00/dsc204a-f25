@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Staff
-description: DSC 291 Spring 2024 Staff
+description: DSC 204A Fall 2025 Staff
 ---
 
 # Staff
@@ -40,15 +40,17 @@ _All office hours are held in-person in Warren 101 unless otherwise specified_
 {% endfor %}
 </div>
 
+
+
 <!-- ## Tutors
 
-{% assign tutors = site.staffers | where: 'role', 'Tutor (UCS1)' %}
+{% assign tutors = site.staffers | where: 'role', 'Tutor' %}
 
 <div class="role flex">
 {% for staffer in tutors %}
 {{ staffer }}
 {% endfor %}
-</div>  -->
+</div> -->
 
 <script src="../assets/darkmode.js"></script>
 <script>

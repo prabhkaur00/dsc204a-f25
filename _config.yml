@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: DSC 291
-description: Machine Learning Systems
+title: DSC 204A
+description: Scalable Data Systems
 author: Hao Zhang
-email: dsc204a-w24@gmail.com
-baseurl: '/dsc291-s24' # the subpath of your site, e.g. /blog
+email: dsc204a-f25@gmail.com
+baseurl: '/dsc204a-f25' # the subpath of your site, e.g. /blog
 url: '' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "vendor", "bundle"]
 #logo: "/data8logo.png"
@@ -30,13 +30,13 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   Office Hours:
-    - '/dsc291-s24/officehours'
+    - '/dsc204a-f25/officehours'
   Canvas:
     - 'https://canvas.ucsd.edu/courses/54693'
   Piazza:
-    - 'https://piazza.com/class/lubjeh3t5ns5wd/'
+    - 'https://piazza.com/class/mfso6xi0i3o27'
   GradeScope:
-    - 'https://www.gradescope.com/courses/760408'
+    - 'https://www.gradescope.com/courses/1139447'
   # Feedback Form:
   #   - 'https://forms.gle/gHhrqEGCGE1S4N1r5'
 

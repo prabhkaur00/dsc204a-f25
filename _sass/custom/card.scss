@@ -49,14 +49,17 @@
       color: white;
     }
     &.label-survey {
-      background-color: $blue-100;
+      background-color: $purple-100;
       color: white;
     }
     &.label-project {
       background-color: $blue-100;
       color: white;
     }
-
+    &.label-reading {
+      background-color: $green-100;
+      color: white;
+    }
     
   }
 }

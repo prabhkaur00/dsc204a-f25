@@ -1,4 +1,4 @@
-# DSC 291 ML Systems Spring 2024
+# DSC 204A Scalable Data Systems Fall 2025
 
 ## How to build locally
 

@@ -7,6 +7,8 @@ nav_order: 980
 
 # Programming Assignments (PA) 
 
+
+<!--
 PA1: Auto Differentiation and Softmax Loss
 - Release Date: Sunday, 04/21/2024
 - Starter Code: [Github](https://github.com/hao-ai-lab/dsc291-PA/tree/main)
@@ -27,7 +29,7 @@ PA3: Tensor Parall Communication
 - Remember do **not** use a public repo for your solution!
 - Due Date: 06/14/2024
 - Upload tar to Gradescope
-
+-->
 
 <!--
  PA1: Getting Started with Modin and Ray
