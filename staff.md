@@ -40,17 +40,15 @@ _All office hours are held in-person in Warren 101 unless otherwise specified_
 {% endfor %}
 </div>
 
-
-
 <!-- ## Tutors
 
-{% assign tutors = site.staffers | where: 'role', 'Tutor' %}
+{% assign tutors = site.staffers | where: 'role', 'Tutor (UCS1)' %}
 
 <div class="role flex">
 {% for staffer in tutors %}
 {{ staffer }}
 {% endfor %}
-</div> -->
+</div>  -->
 
 <script src="../assets/darkmode.js"></script>
 <script>
