@@ -65,7 +65,7 @@ As long as your scribe notes are of sufficient standard, you will be awarded ful
 If your notes have errors or are otherwise not up to standard, we will inform you and give you **one chance** to correct them. 
 ChatGPT is highly recommended to polish the writing of your scribe notes.
 You will receive zero credit if you fail to submit your notes.
-  - Sign-up: [Spreadsheet]()
+  - Sign-up: [Spreadsheet](https://docs.google.com/spreadsheets/d/1NawbzzFapaUqaaldwgHx3CVxjRZyWxeq94F40N-pF-Y/edit?usp=sharing)
   - Template: [Overleaf latex template](https://www.overleaf.com/read/tfpkfgxxpgyd#91f059)
   - Submission: Submit a pull request to [course website repo](https://github.com/hao-ai-lab/dsc204a-f25) for review.
   - Due: 11:59 pm PT of the day 10 days from the lecture
