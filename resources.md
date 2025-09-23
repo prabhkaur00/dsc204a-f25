@@ -18,25 +18,39 @@ description: >-
 ---
 We will gradually add more useful resources on this page.
 
-## Book, Related Documentation, and Courses
+## Book
+
+- [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
+
+## Additional Books
 
 * **If you are not familiar with Python programming, use any online tutorial to get a handle of it.** Here is a [Python mini-course](http://ai.berkeley.edu/tutorial.html#PythonBasics).
 * Computer Organization and Design (5th edition), by David Patterson and John Hennessy (aka the "CompOrg Book").
 * Operating Systems: Three Easy Pieces, by Remzi and Andrea Arpaci-Dusseau (aka the "Comet Book"). Here's the [free e-book](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+* Database Management Systems (3rd edition), by Raghu Ramakrishnan and Johannes Gehrke (aka the "Cow Book").
+* Spark: The Definitive Guide (1st edition), by Bill Chambers and Matei Zaharia (aka the "Spark Book").
 * Data Management in Machine Learning Systems, by Matthias Boehm, Arun Kumar, and Jun Yang.
 * [Deep Learning Book](https://www.deeplearningbook.org/), by Ian Goodfellow, Yoshua Bengio, and Aaron Courville.
 * [Designing Machine Learning Systems](https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969), by Chip Huyen.
+
+## Past Offerings
+* [DSC 204A, Spring 2023](https://haojian.github.io/DSC204A23WI/)
+* [DSC 204A, Winter 2024](https://hao-ai-lab.github.io/dsc204a-w24/)
+
+## Materials
+
+### Resources on Ray
+* [Ray documentation](https://docs.ray.io/en/latest/index.html)
+* [Ray Educational Materials](https://github.com/ray-project/ray-educational-materials)
+* [Modin - Pandas on Ray](https://docs.ray.io/en/latest/ray-more-libs/modin/index.html)
+* [Modin - QuickStart](https://modin.readthedocs.io/en/latest/getting_started/quickstart.html)
+
+### Related Documentation and Courses
 * [PyTorch documentation](https://pytorch.org/docs/stable/index.html)
 * [Dive into Deep Learning](https://d2l.ai/)
 * [Machine Learning Compilation](https://mlc.ai/)
 * [CSE 224: Graduate Networked Systems](https://canvas.ucsd.edu/courses/43955)
 
-<!--* [DSC 204a, Spring 2023](https://haojian.github.io/DSC204A23WI/)-->
-
-## Materials
-
-### Student Materials Folder
-We will post relevant materials in [this folder](https://drive.google.com/drive/folders/19bMUUBX8CJTkG4o2vt9Z-ruobpYgtIL0?usp=drive_link) throughout the quarter.
 
 ## Exam Resources
 Coming soon...
