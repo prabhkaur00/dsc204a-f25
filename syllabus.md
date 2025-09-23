@@ -30,7 +30,7 @@ A major component of this course is hands-on Python programming to implement dat
 
 ## Logistics
 - **Lectures**: TuTh 11:00 AM - 12:20 PM.
-- **Location**: [PCYNH 122](https://maps.app.goo.gl/3xRUTjk3cyVA7wAr6).
+- **Location**: [WLH 2111](https://map.concept3d.com/?id=1005#!ct/18312?s/WLH_Main).
 - **Instructor**: [Hao Zhang](https://cseweb.ucsd.edu/~haozhang/); Office: HDSI 440.
 
 ## Course Content and Format
