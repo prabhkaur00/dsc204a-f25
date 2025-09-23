@@ -39,7 +39,7 @@ The class meets twice a week for 80-minute lectures in person.
   - Attending the lectures is not mandatory but highly encouraged. All lectures will be automatically [podcast here]() afterward.
   - There will be scribe notes required for each lecture. Students should form groups of 2 - 4 people and sign up one slot. See [details below](#scribe-notes).
   - There will be reading summary required every two weeks. Everyone needs to submit their reading summary. See [details below](#reading-summary).
-  - We will use [Piazza](https://piazza.com/ucsd/winter2024/dsc204a) for asynchronous discussions and questions.
+  - We will use [Piazza](https://piazza.com/class/mfso6xi0i3o27) for asynchronous discussions and questions.
 
 ### 3 Programming Assignments (PAs)
   - See the [assignments page](assignments.md) for updates on the PA schedule and details.
