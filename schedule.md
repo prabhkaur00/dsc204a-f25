@@ -29,7 +29,7 @@ description: >-
 | 9  | Guest Talk: TBD                                                         |
 | 10 | MLSYS: ML parallelisms, LLMs, scaling law, training, serving            |
 | 10 | Final exam reviews                                                      |
-| 11 | Final exam on March 22, 8 - 11am.                                       |
+| 11 | Final exam on Dec 10, 11:30am - 2:30pm.                                       |
 
 
 <script src="../assets/darkmode.js"></script>
