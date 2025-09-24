@@ -43,7 +43,7 @@ The class meets twice a week for 80-minute lectures in person.
 
 ### 3 Programming Assignments (PAs)
   - See the [assignments page](assignments.md) for updates on the PA schedule and details.
-  - There are <code>no late days</code> for the PAs. Plan your work accordingly.
+  - There are <code>5 late days</code> for the PAs. Plan your work accordingly.
 
 ### Exams
   - To make your life easier: **There is NO midterm**. As an alternative, we ask for scribe notes and reading summary. 
@@ -73,7 +73,7 @@ You will receive zero credit if you fail to submit your notes.
 ### Reading Summary
 Starting from the second week, the instructor/TA team will provide one required reading and multiple optional readings prior to each lecture. The required readings for this class are compulsory. The optional readings are highly recommended.
 At the end of every two weeks, you are to submit a summary of the readings you have done for all the required readings of all lectures of the past two weeks. 
-These reading summaries are a requirement for this class, and they must be submitted via Gradescope by you in order to receive credit. There is no late day for reading summary. 
+These reading summaries are a requirement for this class, and they must be submitted via Gradescope by you in order to receive credit. There is <code>no late day</code> for reading summary. 
 Your summary should be written at a high level, and should focus on the main point of the readings (i.e. avoid complicated math). As long as your summary is reasonable, you will be given full credits.
 There will be no readings for the last week (Dec 1 - Dec 5) of the instruction. 
 
@@ -183,7 +183,7 @@ The grading scheme is a hybrid of absolute and relative grading. The absolute cu
 
 
 ## Classroom Rules
-- <code>No late days</code> for submitting the PAs. No extensions on the final exam time window. Plan all your work well up front accordingly.
+- <code>5 late days</code> for submitting the PAs. No extensions on the final exam time window. Plan all your work well up front accordingly.
 - Students are encouraged to ask questions and participate in discussions in class and on Piazza. Please raise your hand before speaking and the instructor will call on you to speak.
 - Please review UCSD's honor code and policies and procedures on [academic integrity](https://academicintegrity.ucsd.edu/) here. If plagiarism is detected in your code, or if we detect collusion on the graded quizzes or exams, or if you are found to be using someone else's clickers, or if any other form of academic integrity violation is identified, you will get zero for that component of your score and get downgraded substantially. I will also notify the University authorities for appropriate disciplinary action to be taken, up to and including expulsion from the University.
 - Please review UCSD's principles of community and our commitment to creating an inclusive learning environment on [this website](https://ucsd.edu/about/principles.html).
