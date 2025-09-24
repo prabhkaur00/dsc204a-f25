@@ -43,7 +43,7 @@ The class meets twice a week for 80-minute lectures in person.
 
 ### 3 Programming Assignments (PAs)
   - See the [assignments page](assignments.md) for updates on the PA schedule and details.
-  - There are **5 late days** for the PAs. Plan your work accordingly.
+  - There are <code>no late days</code> for the PAs. Plan your work accordingly.
 
 ### Exams
   - To make your life easier: **There is NO midterm**. As an alternative, we ask for scribe notes and reading summary. 
