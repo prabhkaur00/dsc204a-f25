@@ -26,7 +26,7 @@ The course is organized into four parts, covering the following topics.
 4. **Machine Learning Systems**: GPUs, TensorFlow, PyTorch, data and model parallelism, LLM training and serving.
 
 
-A major component of this course is hands-on Python programming to implement data exploration, data preparation, distributed deep learning training and inference, and model selection pipelines on large real-world data using popular libraries (e.g., Ray, PyTorch) and cloud resources (e.g., AWS/GCP).
+A major component of this course is hands-on Python programming to implement data exploration, data preparation, distributed deep learning training and inference, and model selection pipelines on large real-world data using popular libraries (e.g., Ray, PyTorch).
 
 ## Logistics
 - **Lectures**: TuTh 11:00 AM - 12:20 PM.
@@ -35,22 +35,22 @@ A major component of this course is hands-on Python programming to implement dat
 
 ## Course Content and Format
 ### Lectures
-The class meets twice a week for 80-minute lectures in person.
-  - Attending the lectures is not mandatory but highly encouraged. All lectures will be automatically [podcast here]() afterward.
+The class meets twice a week for two 80-minute lectures in person.
+  - Attending the lectures is not mandatory but highly encouraged. All lectures will be automatically [podcast here](https://podcast.ucsd.edu/watch/fa25/dsc204a_a00) afterward.
   - There will be scribe notes required for each lecture. Students should form groups of 2 - 4 people and sign up one slot. See [details below](#scribe-notes).
   - There will be reading summary required every two weeks. Everyone needs to submit their reading summary. See [details below](#reading-summary).
   - We will use [Piazza](https://piazza.com/class/mfso6xi0i3o27) for asynchronous discussions and questions.
 
 ### 3 Programming Assignments (PAs)
   - See the [assignments page](assignments.md) for updates on the PA schedule and details.
-  - There are <code>5 late days</code> for the PAs. Plan your work accordingly.
+  - There are <code>5 late days</code> in total for the PAs. Plan your work accordingly.
 
 ### Exams
   - To make your life easier: **There is NO midterm**. As an alternative, we ask for scribe notes and reading summary. 
   - There will be a final exam. The final exam will be held in person. Please plan accordingly.
   - Tentative date: **TBD**.
   - The final exam contains ONLY multiple choice questions (select one or all that apply). Some questions will have partial credits.
-  - The guideline for time per question is a max of 1min per point. The points of each question will be calibrated accordingly.
+  - The guideline for time per question is a max of 1min per point. 
   - If you miss an exam, you will get no credit for it, unless you notify the instructor in advance with a university approved reason and receive a makeup exam slot.
   - The final exam is open books, but no electronic devices like Phone, Internet, Laptop, or ChatGPT.
 
@@ -58,7 +58,7 @@ The class meets twice a week for 80-minute lectures in person.
 Each student is required to scribe for a small number of lectures (most likely just 1). Most lectures will have at least 3 students acting as scribes, and they should work as a team. 
 During your assigned lectures, you are to take detailed notes in collaboration with your fellow scribes. 
 After the lecture, the scribe team is to convert their notes into LaTeX format using the provided template. 
-These notes should be 4-8 pages long, and must be submitted electronically. 
+These notes should be 4-12 pages long, and must be submitted electronically. 
 We only require one set of notes from the scribe team. 
 The instructors will then audit your notes, and post them to the [class home page](#) for everyone's benefit. 
 As long as your scribe notes are of sufficient standard, you will be awarded full credit for scribe duties. 
@@ -68,7 +68,7 @@ You will receive zero credit if you fail to submit your notes.
   - Sign-up: [Spreadsheet](https://docs.google.com/spreadsheets/d/1NawbzzFapaUqaaldwgHx3CVxjRZyWxeq94F40N-pF-Y/edit?usp=sharing)
   - Template: [Overleaf latex template](https://www.overleaf.com/read/tfpkfgxxpgyd#91f059)
   - Submission: Submit a pull request to [course website repo](https://github.com/hao-ai-lab/dsc204a-f25) for review.
-  - Due: 11:59 pm PT of the day 10 days from the lecture
+  - Due: 11:59 pm PT of the day 10 days from the lecture you scribe
 
 ### Reading Summary
 Starting from the second week, the instructor/TA team will provide one required reading and multiple optional readings prior to each lecture. The required readings for this class are compulsory. The optional readings are highly recommended.
@@ -82,20 +82,21 @@ The TA team will perform quick scans on all summaries and contact you if they no
   - Template: [NeurIPS format](https://media.neurips.cc/Conferences/NeurIPS2025/Styles.zip)
   - Length: >= 2 pages
   - Submission: [Gradescope](https://www.gradescope.com/courses/1139447)
-  - Due: starting from the 2nd week, the summary of the past 2 weeks is due on Wednesday 11:59pm of the next week
+  - Due: starting from the 2nd week, the summary of the past 2 weeks is due on Wednesday 11:59pm of the current week
 
 
 ### Participation
 We appreciate everyone being actively involved in the class! There are several ways of earning participation credit, which will be capped at 5%:
 
 - Piazza participation: The top ~20 contributors to Piazza will get 3%; others will get credit in proportion to the participation of the ~20th person. (To prevent abuse of the system, not all contributions are counted and instructors hold the right to determine to count contributions as positive or negative.)
-- Completing course evaluations: Around the middle and end of the semester, we will send out a survey to help us understand how the course is going, and how we can improve. Completing them is worth 1%.
+- Completing course evaluations: At the beginning and end of the quarter, surveys will be sent out to help us understand how the course is going, and how we can improve. Completing them is worth 2%.
 - Karma point: Any other act that improves the class, which a DSC204A TA or instructor notices and deems worthy: 1%.
 
 ## Pre-requisites
 
 - DSC 202 (Data Mgt for Data Science); or substantial practical experience with scalable data systems and ML algorithms, subject to the consent of the instructor.
 - Proficiency in Python programming.
+- Basic knowledge of data represenation, database, operation system, and networking.
 - Knowledge of deep learning and deep learning frameworks such as PyTorch.
 
 
@@ -184,6 +185,7 @@ The grading scheme is a hybrid of absolute and relative grading. The absolute cu
 
 ## Classroom Rules
 - <code>5 late days</code> for submitting the PAs. No extensions on the final exam time window. Plan all your work well up front accordingly.
+- NO late days for reading summary or scribe notes.
 - Students are encouraged to ask questions and participate in discussions in class and on Piazza. Please raise your hand before speaking and the instructor will call on you to speak.
 - Please review UCSD's honor code and policies and procedures on [academic integrity](https://academicintegrity.ucsd.edu/) here. If plagiarism is detected in your code, or if we detect collusion on the graded quizzes or exams, or if you are found to be using someone else's clickers, or if any other form of academic integrity violation is identified, you will get zero for that component of your score and get downgraded substantially. I will also notify the University authorities for appropriate disciplinary action to be taken, up to and including expulsion from the University.
 - Please review UCSD's principles of community and our commitment to creating an inclusive learning environment on [this website](https://ucsd.edu/about/principles.html).
