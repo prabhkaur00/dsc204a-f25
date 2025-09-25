@@ -6,7 +6,7 @@ status: Active
 
 
 Sep 23
-: **0**{: .label} No lector
+: **0**{: .label} No lecture
 
 
 Sep 26
