@@ -1,7 +1,7 @@
 ---
 title: Week 2
 class: DSC204A
-status: not Active
+status: Active
 ---
 
 
