@@ -6,8 +6,8 @@ status: Active
 
 
 Sep 30
-: **2**{: .label} Topic
-  : [Slides]() &#8226; [Recording]()
+: **2**{: .label} Computer organization, representation of data, floating points
+  : [Slides](assets/slides/2.basics-1.pdf) &#8226; [Recording]()
 : **Readings**{: .label .label-reading}  **(Due 10/15)**
   * **Required**: [OSTEP Chapter 4](https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-intro.pdf)
   * **Optional**: [OSTEP Chapter 6](https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-mechanisms.pdf), [OSTEP Chapter 7](https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched.pdf)
