@@ -16,7 +16,7 @@ Sep 30
 
 Oct 2
 : **3**{: .label} 
-  <!-- : [Slides]() &#8226; [Recording]() -->
+  : [Slides](assets/slides/3.basics-2.pdf) &#8226; [Recording]()
 : **Readings**{: .label .label-reading}  **(Due 10/15)**
   * **Required**: [OSTEP Chapter 18](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-paging.pdf)
   * **Optional**: [OSTEP Chapter 15](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-mechanism.pdf), [OSTEP Chapter 16](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-segmentation.pdf)
