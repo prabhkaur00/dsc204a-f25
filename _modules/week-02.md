@@ -15,7 +15,7 @@ Sep 30
 
 
 Oct 2
-: **3**{: .label} 
+: **3**{: .label} Floating points, processors, memory hierarhcy
   : [Slides](assets/slides/3.basics-2.pdf) &#8226; [Recording]()
 : **Readings**{: .label .label-reading}  **(Due 10/15)**
   * **Required**: [OSTEP Chapter 18](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-paging.pdf)
