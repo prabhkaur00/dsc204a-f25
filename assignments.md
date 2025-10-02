@@ -14,7 +14,7 @@ nav_order: 980
 - [Starter Code](https://drive.google.com/file/d/1gVaAsZnEIQz6kHphsB-kt8Y0H7ajgOuB/view?usp=drive_link)
 - Discussion by TA: 10/17/2025 (tentative)
 - Due Date: 10/17/2025
-- Discussion Session Slides: TBA
+- [Discussion Session Slides](https://docs.google.com/presentation/d/1X2rVTsSJuCJAHcrT6_r346QICx8IsBOvWsO6COroULU/edit?slide=id.g388b1d7d5b8_0_0#slide=id.g388b1d7d5b8_0_0)
 - Discussion Session Notebook: TBA
 
 <script src="../assets/darkmode.js"></script>
