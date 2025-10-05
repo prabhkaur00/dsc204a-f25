@@ -1,3 +1,7 @@
+---
+nav_exclude: true
+---
+
 ### This folder contains the PDFs of scribe notes.
 
 * How to submit:
