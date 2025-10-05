@@ -1,22 +1,23 @@
 ---
 title: Week 3
 class: DSC204A
-status: not Active
+status: Active
 ---
 
-Apr 16
-: **1**{: .label} GPUs
-  : [Slides](assets/slides/5_gpus.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/sp24/dsc291_d00/5)
-: *Reading:*
-* [GPU Performance Background User's Guide (required)](https://docs.nvidia.com/deeplearning/performance/dl-performance-gpu-background/index.html)
-* [Matrix Multiplication Background User's Guide (required)](https://docs.nvidia.com/deeplearning/performance/dl-performance-matrix-multiplication/index.html)
+
+Oct 7
+: **4**{: .label} 
+  <!-- : [Slides]() &#8226; [Recording]() -->
+: **Readings**{: .label .label-reading}  **(Due 10/15)**
+  * **Required**: [OSTEP Chapter 22](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-beyondphys-policy.pdf)
+  * **Optional**: [OSTEP Chapter 28](https://pages.cs.wisc.edu/~remzi/OSTEP/threads-locks.pdf), [OSTEP Chapter 39](https://pages.cs.wisc.edu/~remzi/OSTEP/file-intro.pdf)
 
 
-Apr 18
-: **2**{: .label} GPUs compilation
-  : [Slides](assets/slides/6_gpus-compilation.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/sp24/dsc291_d00/6)
-: *Reading:*
-* [GPU Performance Background User's Guide (required)](https://docs.nvidia.com/deeplearning/performance/dl-performance-gpu-background/index.html)
-* [Matrix Multiplication Background User's Guide (required)](https://docs.nvidia.com/deeplearning/performance/dl-performance-matrix-multiplication/index.html)
+
+Oct 9
+: **5**{: .label} 
+  <!-- : [Slides]() &#8226; [Recording]() -->
+: **Readings**{: .label .label-reading}  **(Due 10/15)**
+  * **Required**: [Understanding the cloud computing stack: SaaS, PaaS, and IaaS](https://rapidscale.net/wp-content/uploads/2019/05/Understanding-the-Cloud-Stack-White-Paper.pdf)
 
 
