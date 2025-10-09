@@ -16,7 +16,7 @@ Oct 7
 
 Oct 9
 : **5**{: .label} 
-  <!-- : [Slides]() &#8226; [Recording]() -->
+  : [Slides](assets/slides/5. basics-4.pdf) &#8226; [Recording]()
 : **Readings**{: .label .label-reading}  **(Due 10/15)**
   * **Required**: [Understanding the cloud computing stack: SaaS, PaaS, and IaaS](https://rapidscale.net/wp-content/uploads/2019/05/Understanding-the-Cloud-Stack-White-Paper.pdf)
 
