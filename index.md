@@ -21,9 +21,8 @@ Instructor: Hao Zhang, UC San Diego, Fall 2025
 
 ## Announcements
 
-
 {% assign announcements = site.announcements | reverse %}
-{% for announcement in announcements %}
+{% for announcement in announcements limit:1 %}
 {{ announcement }}
 {% endfor %}
 
