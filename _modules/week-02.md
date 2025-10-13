@@ -16,7 +16,7 @@ Sep 30
 
 Oct 2
 : **3**{: .label} Floating points, processors, memory hierarhcy
-  : [Slides](assets/slides/3. basics-2.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/fa25/dsc204a_a00/3)
+  : [Slides](assets/slides/3. basics-2.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/fa25/dsc204a_a00/3) &#8226; [Notes](assets/scribe_notes/oct2_scribe.pdf)
 : **Readings**{: .label .label-reading}  **(Due 10/15)**
   * **Required**: [OSTEP Chapter 18](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-paging.pdf)
   * **Optional**: [OSTEP Chapter 15](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-mechanism.pdf), [OSTEP Chapter 16](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-segmentation.pdf)
