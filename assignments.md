@@ -17,7 +17,8 @@ nav_order: 980
 - Discussion by TA: 10/17/2025, 4:00 PM - 5:00 PM ([Zoom](https://ucsd.zoom.us/j/99453442891)) (tentative)
 - Due Date: 10/17/2025
 <!-- - [Discussion Session Slides](https://docs.google.com/presentation/d/1X2rVTsSJuCJAHcrT6_r346QICx8IsBOvWsO6COroULU/edit?slide=id.g388b1d7d5b8_0_0#slide=id.g388b1d7d5b8_0_0) -->
-- Discussion Session Slides and Notebook: TBA
+- [Discussion Session Slides](https://docs.google.com/presentation/d/1gfdluDIba88d4eCfRM27EUTqfcIme8_okhGe4fzZ0wI/edit?usp=sharing)
+- [Discussion Notebook](https://drive.google.com/file/d/1kPipImAFFgnpS8qmVMPzko-EizXnF4sL/view?usp=sharing)
 
 <script src="../assets/darkmode.js"></script>
 <script>
