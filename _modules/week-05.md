@@ -1,19 +1,20 @@
 ---
 title: Week 5
 class: DSC204A
-status: not Active
+status: Active
 ---
 
-Apr 30
-: **1**{: .label} Guest Lecture by Jason Ansel
-  : [Slides](assets/slides/jason_ansel_pytorch2.pdf) &#8226; [Recording](https://drive.google.com/drive/folders/1BslG1-HWxNjXkdTYXd9rudNQwll_aNJv?usp=sharing)
-: *Reading:*
-* [PyTorch 2: Faster Machine Learning Through Dynamic Python Bytecode Transformation and Graph Compilation (required)](https://pytorch.org/assets/pytorch2-2.pdf)
+Oct 21
+: **8**{: .label} Cloud storage
+  <!-- : [Slides](assets/slides/) &#8226; [Recording](https://podcast.ucsd.edu/watch/fa25/dsc204a_a00/8) -->
+: **Readings**{: .label .label-reading}  **(Due 10/29)**
+  * **Required**: [The Google File System](https://static.googleusercontent.com/media/research.google.com/zh-CN//archive/gfs-sosp2003.pdf)
+  * **Optional**: [The Snowflake Elastic Data Warehouse](https://info.snowflake.net/rs/252-RFO-227/images/Snowflake_SIGMOD.pdf)
 
 
-May 2
-: **2**{: .label} Parallelization
-  : [Slides](assets/slides/9_parallelization.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/sp24/dsc291_d00/10)
-: *Reading:*
-* [PyTorch 2: Faster Machine Learning Through Dynamic Python Bytecode Transformation and Graph Compilation (required)](https://pytorch.org/assets/pytorch2-2.pdf)
-
+Oct 23
+: **9**{: .label} Cloud storage
+  <!-- : [Slides](assets/slides/) &#8226; [Recording](https://podcast.ucsd.edu/watch/fa25/dsc204a_a00/9) -->
+: **Readings**{: .label .label-reading}  **(Due 10/29)**
+  * **Required**: [Finding a needle in Haystack: Facebook’s photo storage](https://www.usenix.org/legacy/event/osdi10/tech/full_papers/Beaver.pdf)
+  * **Optional**: [Best Practices Design Patterns: Optimizing Amazon S3 Performance](https://d1.awsstatic.com/whitepapers/AmazonS3BestPractices.pdf)

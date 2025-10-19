@@ -20,6 +20,15 @@ nav_order: 980
 - [Discussion Session Slides](https://docs.google.com/presentation/d/1gfdluDIba88d4eCfRM27EUTqfcIme8_okhGe4fzZ0wI/edit?usp=sharing)
 - [Discussion Notebook](https://drive.google.com/file/d/1kPipImAFFgnpS8qmVMPzko-EizXnF4sL/view?usp=sharing)
 
+
+## PA2: Ray Data, Ray Actors, and Collective Communication
+
+- Release Date: Saturday, 10/18/2025
+- Due Date: Sunday, 11/02/2025, 11:59PM
+- [Problem Statement and Rubric](../assets/problem_statements/dsc204fall2025_assignment_2.pdf)
+- Code / Submission: Datahub
+- PA2 includes 3 different notebooks, with more tasks compared with PA1. 
+
 <script src="../assets/darkmode.js"></script>
 <script>
   window.addEventListener("DOMContentLoaded", (event) => {
